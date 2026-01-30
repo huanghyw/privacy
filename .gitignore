@@ -26,7 +26,9 @@ Thumbs.db
 
 # 草稿和测试文件
 draft*.html
+draft*.md
 test*.html
+test*.md
 *_draft.*
 *_test.*
 *_backup.*
